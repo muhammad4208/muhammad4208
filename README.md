@@ -1,19 +1,7 @@
 ### Hi there I'm Muhammad Abdullah 👋
 
 <!--
-**muhammad4208/muhammad4208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**muhammad4208/muhammad4208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <p align="center">
 <img src="https://www.wizlynxgroup.com/content/images/RedTeamAttackLifecycle.jpg" />
   <p align="center">
@@ -34,7 +22,7 @@ Hi! I'm **Muhammad Abdullah**, a **Pentester** from Laghman, Afghanistan.  I con
 -   :man_technologist: For my terminal, I use **Kali Linux**.
 -   :hammer_and_wrench: For IDEs, I use **Visual Studio code**,  and **Python** for scripting.
 -   :whale: For containerization, I use **Docker**.
--   :ocean: Currently, I posted all my articles to a **Medium**.
+-   :ocean: Currently, I posted all my blogs to a **Medium**.
 
 ## What's my typical coding day?
 
@@ -44,7 +32,7 @@ Hi! I'm **Muhammad Abdullah**, a **Pentester** from Laghman, Afghanistan.  I con
 ## What am I working on?
 
 - 🏴Capturing the flags on tryhackme and HTB.
-- :hammer: If you want to learn more about some of the articles I've worked on, visit my online [portfolio](https://medium.com/@muhammad4208
+- :hammer: If you want to read more about some of the blogs I've written on, visit my online [Blogging Site](https://medium.com/@muhammad4208
 ).
 
 ## What am I currently learning?
