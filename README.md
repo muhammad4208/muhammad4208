@@ -1,5 +1,4 @@
 ### Hi there I'm Muhammad Abdullah 👋
-
 <!--
 **muhammad4208/muhammad4208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <p align="center">
@@ -9,11 +8,6 @@
 <b>Red Teaming Methodology</b> </p>
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
-
-
-# Hello:wave:, and welcome to my GitHub profile!
-
-
 Hi! I'm **Muhammad Abdullah**, a **Pentester** from Laghman, Afghanistan.  I consider myself a *curious* and *self-directed* individual.  
 
 ## What's my development setup?
