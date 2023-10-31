@@ -8,21 +8,21 @@
 <b>Red Teaming Methodology</b> </p>
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
-Hi! I'm **Muhammad Abdullah**, a **Pentester** from Laghman, Afghanistan.  I consider myself a *curious* and *self-directed* individual.  
+Hi! I'm **Muhammad Abdullah**, a **Pentester** || **Linux Admin** || **Cybersecurity Consultant** || **IT Support Technician** from Laghman, Afghanistan.  I consider myself a *curious* and *self-directed* individual.  
 
 ## What's my development setup?
 
--   :computer: My laptop runs on **Windows 11 Pro**
--   :man_technologist: For my terminal, I use **Kali Linux**.
+-   :computer: My laptop runs on **Windows 10 Pro**
+-   :man_technologist: For my terminal, I use **Kali Linux** and **Parrot Security**.
 -   :hammer_and_wrench: For IDEs, I use **Visual Studio code**,  and **Python** for scripting.
 -   :whale: For containerization, I use **Docker**.
--   :ocean: Currently, I posted all my blogs to a **Medium**.
+-   :ocean: Currently, I post all my blogs to a **<a href='https://medium.com/@muhammad4208'>Medium</a>**.
 
 ## What's my typical coding day?
 
--   📘 If working on a defense-side, I would most likely using Nessus, OpenVas, snort, and MITRE framework.
--   📕 If working on a offensive-side, I would most likely using nmap, nikto, burp suite, metasploit and **Python** for workflow automation.
--   🏫 University Lately, I've been doing my FYP project.
+-   📘 If working on a defense side, I would most likely use Nessus, OpenVas, snort, and MITRE framework.
+-   📕 If working on an offensive side, I would most likely use Nmap, Nikto, Burp Suite, Metasploit, and **Python** for workflow automation.
+-   🏫 University Lately, I developed a Linux GUI application using Python to automate banner grabbing and vulnerability analysis. The application simplified essential cybersecurity tasks, including Network Scanning, Subdomain Enumeration, Content Discovery, Web Analysis, Technology Detection, and Vulnerability Analysis. It also provided comprehensive reporting for these tasks.
 ## What am I working on?
 
 - 🏴Capturing the flags on tryhackme and HTB.
@@ -31,7 +31,7 @@ Hi! I'm **Muhammad Abdullah**, a **Pentester** from Laghman, Afghanistan.  I con
 
 ## What am I currently learning?
 
--  :school: I'm doing the Red Team Path on TryHackme and also capture the flag (CTF) rooms.
+-  :school: I'm doing the Red Team Path on TryHackme and also capturing the flag (CTF) rooms.
         
 ## Some helpful resources
 
