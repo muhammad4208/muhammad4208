@@ -8,7 +8,7 @@
 <b>Red Teaming Methodology</b> </p>
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
-Hi! I'm **Muhammad Abdullah**, a **Pentester** || **Linux Admin** || **Cybersecurity Consultant** || **IT Support Technician** from Laghman, Afghanistan.  I consider myself a *curious* and *self-directed* individual.  
+Hi! I'm *Muhammad Abdullah*, a Pentester || Linux Admin || Cybersecurity Consultant || IT Support Technician.  
 
 ## What's my development setup?
 
