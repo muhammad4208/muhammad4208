@@ -10,16 +10,6 @@
 <p align="center">&nbsp;</p>
 Hi! I'm *Muhammad Abdullah*, IT Risk Management Officer || Certified in Cybersecurity ISC² || IT Support Specialist || Doing MSc CS   
 
-## What's my educational background?  
-
-- 🏫 **Master of Science in Computer Science**  
-  **Nazarbayev University, Kazakhstan** (Aug 2024 – Present)  
-  - Courses: Intelligent Systems, Wireless Communication, Software Principles, Research Methods, Project Management, Technical Communication.  
-
-- 🎓 **Bachelor of Science in Computer Science**  
-  **International Islamic University Islamabad, Pakistan** (Sept 2019 – Aug 2024)  
-  - Courses: Data Structures & Algorithms, Operating Systems, Database Systems, Information Security, AI, Web Engineering, Networking, etc.  
-
 ## What are some of my key projects?  
 
 - 🔧 **BGVA (Banner Grabbing and Vulnerability Analysis)**  
@@ -56,7 +46,7 @@ Hi! I'm *Muhammad Abdullah*, IT Risk Management Officer || Certified in Cybersec
   (Sept 2023 – Feb 2024)  
   - Participated in CTF competitions, solving challenges related to penetration testing, vulnerability assessments, and ISMS techniques.  
 
-## What skills do I bring to the table?  
+## Professional Skills  
 
 - 🔐 **Security Tools**: Nmap, Metasploit, Wireshark, Burp Suite, Nessus, Nikto, Hydra, SQLmap, Aircrack-ng.  
 - 🌐 **Networking**: Expertise in TCP/IP troubleshooting, router/switch configuration, VPNs, and security protocols.  
@@ -66,7 +56,7 @@ Hi! I'm *Muhammad Abdullah*, IT Risk Management Officer || Certified in Cybersec
 - 📊 **Project Management**: Experienced in leading teams and managing IT risk initiatives.  
 - 🧠 **Problem-Solving**: Strong technical troubleshooting skills.  
 
-## What certifications do I have?  
+## Certifications  
 
 - **Certified in Cybersecurity (CC)** – (ISC)²  
 - **Practical Ethical Hacking** – TCM Security Academy  
@@ -74,12 +64,7 @@ Hi! I'm *Muhammad Abdullah*, IT Risk Management Officer || Certified in Cybersec
 - **Cybersecurity Essentials** – Cisco Networking Academy  
 - **Introduction to IoT** – Cisco Networking Academy  
 - **Communicating and Collaborating** – University of Leeds  
-- **Cybersecurity** – Corvit Institute Rawalpindi  
-
-## What languages do I speak?  
-
-- 🌍 Native fluency: Pashto, Hindi  
-- 🌐 Proficient: English, Dari  
+- **Cybersecurity** – Corvit Institute Rawalpindi   
 
 ## What are my interests?  
 
