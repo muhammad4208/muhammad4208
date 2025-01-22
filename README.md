@@ -8,30 +8,89 @@
 <b>Red Teaming Methodology</b> </p>
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
-Hi! I'm *Muhammad Abdullah*, a Pentester || Linux Admin || Cybersecurity Consultant || IT Support Technician.  
+Hi! I'm *Muhammad Abdullah*, IT Risk Management Officer || Certified in Cybersecurity ISC² || IT Support Specialist || Doing MSc CS   
 
-## What's my development setup?
+## What's my educational background?  
 
--   :computer: My laptop runs on **Windows 10 Pro**
--   :man_technologist: For my terminal, I use **Kali Linux** and **Parrot Security**.
--   :hammer_and_wrench: For IDEs, I use **Visual Studio code**,  and **Python** for scripting.
--   :whale: For containerization, I use **Docker**.
--   :ocean: Currently, I post all my blogs to a **<a href='https://medium.com/@muhammad4208'>Medium</a>**.
+- 🏫 **Master of Science in Computer Science**  
+  **Nazarbayev University, Kazakhstan** (Aug 2024 – Present)  
+  - Courses: Intelligent Systems, Wireless Communication, Software Principles, Research Methods, Project Management, Technical Communication.  
 
-## What's my typical coding day?
+- 🎓 **Bachelor of Science in Computer Science**  
+  **International Islamic University Islamabad, Pakistan** (Sept 2019 – Aug 2024)  
+  - Courses: Data Structures & Algorithms, Operating Systems, Database Systems, Information Security, AI, Web Engineering, Networking, etc.  
 
--   📘 If working on a defense side, I would most likely use Nessus, OpenVas, snort, and MITRE framework.
--   📕 If working on an offensive side, I would most likely use Nmap, Nikto, Burp Suite, Metasploit, and **Python** for workflow automation.
--   🏫 University Lately, I developed a Linux GUI application using Python to automate banner grabbing and vulnerability analysis. The application simplified essential cybersecurity tasks, including Network Scanning, Subdomain Enumeration, Content Discovery, Web Analysis, Technology Detection, and Vulnerability Analysis. It also provided comprehensive reporting for these tasks.
-## What am I working on?
+## What are some of my key projects?  
 
-- 🏴Capturing the flags on tryhackme and HTB.
-- :hammer: If you want to read more about some of the blogs I've written on, visit my online [Blogging Site](https://medium.com/@muhammad4208
-).
+- 🔧 **BGVA (Banner Grabbing and Vulnerability Analysis)**  
+  Developed a Python-based tool for web application security testing, integrating Nmap, Nikto, and BuiltWith. Implemented injection attack tests for comprehensive vulnerability analysis.  
 
-## What am I currently learning?
+- 🛒 **E-Commerce Website**  
+  Built a fully functional website using HTML, CSS, JavaScript, PHP, and SQL.  
 
--  :school: I'm doing the Red Team Path on TryHackme and also capturing the flag (CTF) rooms.
+- 🖥️ **C++ Applications**  
+  Created tools such as a student database manager, a clock application, and a basic system for a burger shop.  
+
+- 🌐 **Client-Server Application**  
+  Designed a Python-based application enabling communication between devices across a network.  
+
+## What's my professional experience?  
+
+- 🏦 **IT Risk Management Officer**  
+  Afghan United Bank, Head Office, Kabul (Apr 2024 – Jul 2024)  
+  - Assessed IT policies for compliance with security standards and regulations.  
+  - Developed and implemented risk assessment questionnaires to evaluate practices across departments.  
+  - Conducted regular security checks to ensure adherence to organizational protocols.  
+
+- 🏗️ **IT Analyst**  
+  Zmalyar Construction Company, Laghman (Sept 2023 – Feb 2024)  
+  - Provided technical support for hardware/software issues.  
+  - Ensured data integrity and security of digital records.  
+  - Supported inventory management and system updates across departments.  
+
+- ✍️ **Blogger**  
+  Self-Driven (Apr 2024 – Aug 2024)  
+  - Published detailed articles on cybersecurity topics, including Capture the Flag (CTF) challenges and vulnerability analysis.  
+
+- 🕵️ **CTF Player**  
+  (Sept 2023 – Feb 2024)  
+  - Participated in CTF competitions, solving challenges related to penetration testing, vulnerability assessments, and ISMS techniques.  
+
+## What skills do I bring to the table?  
+
+- 🔐 **Security Tools**: Nmap, Metasploit, Wireshark, Burp Suite, Nessus, Nikto, Hydra, SQLmap, Aircrack-ng.  
+- 🌐 **Networking**: Expertise in TCP/IP troubleshooting, router/switch configuration, VPNs, and security protocols.  
+- 📦 **Virtualization**: Proficient in VirtualBox, VMware, and Docker.  
+- 🖥️ **Programming/Scripting**: Python, Bash, C++, Java, JavaScript, HTML, CSS, PHP, SQL.  
+- 🛠️ **Operating Systems**: Ubuntu, CentOS, Kali Linux, Parrot OS, Windows.  
+- 📊 **Project Management**: Experienced in leading teams and managing IT risk initiatives.  
+- 🧠 **Problem-Solving**: Strong technical troubleshooting skills.  
+
+## What certifications do I have?  
+
+- **Certified in Cybersecurity (CC)** – (ISC)²  
+- **Practical Ethical Hacking** – TCM Security Academy  
+- **NDG Linux Essentials** – Cisco Networking Academy  
+- **Cybersecurity Essentials** – Cisco Networking Academy  
+- **Introduction to IoT** – Cisco Networking Academy  
+- **Communicating and Collaborating** – University of Leeds  
+- **Cybersecurity** – Corvit Institute Rawalpindi  
+
+## What languages do I speak?  
+
+- 🌍 Native fluency: Pashto, Hindi  
+- 🌐 Proficient: English, Dari  
+
+## What are my interests?  
+
+- 🌌 **Passions**: History, astronomy, entrepreneurship, and fitness.  
+- 📖 **Clubs**: Member of the Language and Linguistic Learning Club.  
+
+## Let's connect!  
+
+- 📧 **Email**: [abdullah.niazi@nu.edu.kz](mailto:abdullah.niazi@nu.edu.kz)  
+- 🌐 **Medium Blog**: [Medium](https://medium.com/@muhammad4208)  
+- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/muhammad-abdullah-niazi-baa6a0224/)  
         
 ## Some helpful resources
 
